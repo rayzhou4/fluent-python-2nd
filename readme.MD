@@ -1,3 +1,5 @@
 ### Fluent Python
 
-My learnings through Fluent Python 2nd Edition
+My learnings/sandbox through Fluent Python 2nd Edition
+
+check ur docs for learnings
